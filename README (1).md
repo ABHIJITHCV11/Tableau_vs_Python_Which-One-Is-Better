@@ -10,7 +10,8 @@ The file attached (bank-marketing.xlsx) contain's bank’s existing customer det
 ## 2. Loading Data
 
 #### Using tableau
-![](images/Capture1.PNG)
+![](images/Capture1.PNG)  
+
 ![](images/Capture11.PNG)
 #### Using Python
 ![](images/Capture.PNG)
