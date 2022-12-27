@@ -8,7 +8,7 @@ Answering the same problem using tableau and python.
 The file attached (bank-marketing.xlsx) contain's bank’s existing customer details.
 
 ### 2. Loading Data
-
+![]([https://github.com/ABHIJITHCV11/Big_Data_With_Hive/blob/main/gif/computer.gif](https://github.com/ABHIJITHCV11/Tableau_vs_Python_Which-One-Is-Better/blob/main/images/Capture.PNG))
 #### Tableau
 
 ####  Python
