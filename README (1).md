@@ -9,41 +9,41 @@ The file attached (bank-marketing.xlsx) contain's bank’s existing customer det
 
 ## 2. Loading Data
 
-#### Using tableau
+### Using tableau
 ![](images/Capture1.PNG)  
 
 ![](images/Capture11.PNG)
-#### Using Python
+### Using Python 
 ![](images/Capture.PNG)
 ## 3. Aswering objective questions 
 
 #### a. What is the average balance for the customers for whom the outcome of the previous marketing campaign was successful?
 
-#### Tableau
+### Tableau
 ![](images/at.PNG)
-####  Python
+###  Python
 ![](images/ap.PNG)
 #### b. Single Customers with Personal Loan
 
-#### Tableau
+### Tableau
 ![](images/bt.PNG)
-####  Python
+###  Python
 ![](images/bp.PNG)
 #### c. Spread of Duration
 
-#### Tableau
+### Tableau
 ![](images/ct.PNG)
-####  Python
+###  Python
 ![](images/cp.PNG)
 #### d. Last Contacted in May
 
-#### Tableau
+### Tableau
 ![](images/dt.PNG)
-####  Python
+###  Python
 ![](images/dp.PNG)
 #### e. Percentage Difference in July Salary 
 
-#### Tableau
+### Tableau
 ![](images/dt.PNG)
-####  Python
+###  Python
 ![](images/dp.PNG)
