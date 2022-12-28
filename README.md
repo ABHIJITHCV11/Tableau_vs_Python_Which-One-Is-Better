@@ -20,7 +20,7 @@ The file attached (bank-marketing.xlsx) contain's bank’s existing customer det
 
 ### Using Tableau
 <kbd> ![](images/at.PNG) </kbd>
-### Using Python
+### Using Python 🐍
 <kbd> ![](images/ap.PNG) </kbd>
 
 #### b. What is the average duration for single people who have a personal loan?
