@@ -8,6 +8,8 @@ The file attached (bank-marketing.xlsx) contain's bank’s existing customer det
 
 ipython notebook contains the full python solution.
 
+[Tableau dashbord](https://public.tableau.com/views/Bank_Customer_Analysis_Python_vs_Tableau/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) contains Tableau analysis.
+
 ## 2. Loading Data
 
 ### Using tableau  
