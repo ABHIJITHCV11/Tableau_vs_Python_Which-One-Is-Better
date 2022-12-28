@@ -5,6 +5,7 @@ Answering the same problem using tableau and python.
 
 ## 1. Data
 The file attached (bank-marketing.xlsx) contain's bank’s existing customer details.
+
 ipython notebook contains the full python solution.
 
 ## 2. Loading Data
