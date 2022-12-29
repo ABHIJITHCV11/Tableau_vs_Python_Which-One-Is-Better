@@ -47,3 +47,14 @@ Answering the same problem using tableau and python.
 <kbd> ![](images/dp.PNG) </kbd>
 
 <kbd> ![](images/ep.PNG) </kbd>
+
+## 4. Conclusion
+
+- Tableau is an interactive data visualization software for Business Intelligence. 
+- The end user can interact with the data and get a high level view easly.
+- Tableau doesn’t require coding as the visualizations are created by simple drag and drop.
+- Only basic preprocessing of data can be done
+- Tableau is not free.
+- Tableau is easy to use, and while some prior data analysis knowledge can help, it is unnecessary.
+
++ 
