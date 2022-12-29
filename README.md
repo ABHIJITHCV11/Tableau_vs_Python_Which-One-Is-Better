@@ -6,7 +6,7 @@ Answering the same problem using tableau and python.
 ## 1. Data
 The file attached (bank-marketing.xlsx) contain's bank’s existing customer details.
 
-ipython notebook contains python analysis.
+[ipython notebook](https://github.com/ABHIJITHCV11/Tableau_vs_Python_Which-One-Is-Better/blob/main/Python_analysis..ipynb) contains python analysis.
 
 [Tableau dashbord](https://public.tableau.com/views/Bank_Customer_Analysis_Python_vs_Tableau/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) contains Tableau analysis.
 
