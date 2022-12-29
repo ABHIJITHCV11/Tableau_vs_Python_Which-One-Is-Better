@@ -50,11 +50,17 @@ Answering the same problem using tableau and python.
 
 ## 4. Conclusion
 
-- Tableau is an interactive data visualization software for Business Intelligence. 
-- The end user can interact with the data and get a high level view easly.
-- Tableau doesn’t require coding as the visualizations are created by simple drag and drop.
-- Only basic preprocessing of data can be done
-- Tableau is not free.
-- Tableau is easy to use, and while some prior data analysis knowledge can help, it is unnecessary.
+### Python 
 
-+ 
+![](images/pskill.PNG)
+- Python is good for data Cleaning, analysis and Machine Learning.
+- There are amazing libraries like matplotlib and seaborn for data Visualization. 
+- Python is the best when working with a variety of data that requires advanced analytics. 
+- In Machine learning, a good workflow will improve the results and will keep a better understanding of the work, but they take time to learn. 
+- 
+### Tableau
+
+![](images/tskill.PNG)
+- Tableau, provides user-friendly system that simplifies the creation of graphs.
+- The graphs in Tableau are more attractive for the end-users who just wants to understand the results and make decisions based on it, but they have limitations.
+- The disadvantages of Tableau are that it's not for free — their pricing is expensive compared to other BI software in the market and it only allows you to do basic     preprocessing of data and its difficult to keep track of the workflow.
