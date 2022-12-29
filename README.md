@@ -56,11 +56,12 @@ Answering the same problem using tableau and python.
 - Python is good for data Cleaning, analysis and Machine Learning.
 - There are amazing libraries like matplotlib and seaborn for data Visualization. 
 - Python is the best when working with a variety of data that requires advanced analytics. 
-- In Machine learning, a good workflow will improve the results and will keep a better understanding of the work, but they take time to learn. 
-- 
+- In Machine learning, a good workflow will improve the results and will keep a better understanding of the work.
+- But all of this will take time to learn. 
 ### Tableau
 
 ![](images/tskill.PNG)
 - Tableau, provides user-friendly system that simplifies the creation of graphs.
 - The graphs in Tableau are more attractive for the end-users who just wants to understand the results and make decisions based on it, but they have limitations.
-- The disadvantages of Tableau are that it's not for free — their pricing is expensive compared to other BI software in the market and it only allows you to do basic     preprocessing of data and its difficult to keep track of the workflow.
+- Tableau only allows us to do basic preprocessing of data and its difficult to keep track of the workflow.
+- Tableau dashbords can play a mojor part in an effective presentation that can assist in better decision making.
