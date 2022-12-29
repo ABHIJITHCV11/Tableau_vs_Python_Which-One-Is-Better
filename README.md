@@ -48,8 +48,9 @@ Answering the same problem using tableau and python.
 
 <kbd> ![](images/ep.PNG) </kbd>
 
-## 4. Which one to choose 
-
+## 4. Which one to choose. 
+In some ways, Tableau and Python are similar, and in other ways they are different.
+Which one to choose and when depends on the purpose of your analysis and the type of data.
 ### Python 
 
 ![](images/pskill.PNG)
