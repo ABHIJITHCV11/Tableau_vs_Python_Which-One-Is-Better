@@ -4,7 +4,7 @@ Answering the same problem using tableau and python.
 
 
 ## 1. Data
-The file attached (bank-marketing.xlsx) contain's bank’s existing customer details.
+[bank-marketing.xlsx](https://github.com/ABHIJITHCV11/Tableau_vs_Python_Which-One-Is-Better/blob/main/bank-marketing.xlsx) contain's bank’s existing customer details.
 
 [ipython notebook](https://github.com/ABHIJITHCV11/Tableau_vs_Python_Which-One-Is-Better/blob/main/Python_analysis..ipynb) contains python analysis.
 
