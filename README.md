@@ -30,7 +30,7 @@ Answering the same problem using tableau and python.
 #### c. Suppose you want to know how the duration of a loan application is spread over a period of one year. Which of the following visualisation methods can be used for this purpose?
 <kbd> ![](images/ct.PNG) </kbd>
 
-#### d. Report the average salary of the customers who were last contacted in the month of May and select the correct option from below.
+#### d. Report the average salary of the customers who were last contacted in different months.
 <kbd> ![](images/dt.PNG) </kbd>
 
 #### e. What is the percentage difference in the average salary for the month of July? (By default, the percentage difference calculation is done between the previous month and the current month).
