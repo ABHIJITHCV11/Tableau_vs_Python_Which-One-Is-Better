@@ -31,7 +31,7 @@ Answering the same problem using tableau and python.
 <kbd> ![](images/ct.PNG) </kbd>
 
 #### d. Report the average salary of the customers who were last contacted in different months.
-<kbd> ![](images/dt.PNG) </kbd>
+<kbd> ![](images/v1.PNG) </kbd>
 
 #### e. What is the percentage difference in the average salary for the month of July? (By default, the percentage difference calculation is done between the previous month and the current month).
 <kbd> ![](images/et.PNG) </kbd>
